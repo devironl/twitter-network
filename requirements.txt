@@ -1,0 +1,6 @@
+numpy
+python-louvain
+networkx
+matplotlib
+requests
+requests_oauthlib
